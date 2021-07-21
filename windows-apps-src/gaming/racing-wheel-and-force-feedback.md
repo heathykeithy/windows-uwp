@@ -268,7 +268,7 @@ if (racingwheel->HasPatternShifter)
 
 ## Run the InputInterfacing sample
 
-The [InputInterfacingUWP sample _(github)_](https://github.com/Microsoft/Xbox-ATG-Samples/tree/master/Samples/System/InputInterfacingUWP) demonstrates how to use racing wheels and different kinds of input devices in tandem, as well as how these input devices behave as UI navigation controllers.
+The [InputInterfacingUWP sample _(github)_](https://github.com/microsoft/Xbox-ATG-Samples/tree/master/UWPSamples/System/InputInterfacingUWP) demonstrates how to use racing wheels and different kinds of input devices in tandem, as well as how these input devices behave as UI navigation controllers.
 
 ## Force feedback overview
 
